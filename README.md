@@ -19,7 +19,7 @@
 ### 📫 ¿Cómo contactarme?
 - **Correo electrónico**: [lhucax@gmail.com](mailto:lhucax@gmail.com)
 - **LinkedIn**: [Luciano Herrera Godoy](https://www.linkedin.com/in/luciano-herrera-godoy/)
-- **Portafolio**: [Mi GitHub](https://github.com/LucianoAHG)
+- **Portafolio**: [Mi GitHub](https://github.com/LucianoAHG?tab=repositories)
 
 ---
 
