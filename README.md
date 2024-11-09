@@ -24,10 +24,10 @@
 ---
 
 ### 🔧 Proyectos Destacados:
-- **[Proyecto 1 - Sistema de Gestión Escolar](https://github.com/LucianoAHG/proyecto1)**  
+- **[Proyecto 1 - Sistema de Gestión Escolar](https://github.com/LucianoAHG/DemoCarpetaDocente)**  
   Sistema de gestión de información escolar desarrollado con Flask y React para simplificar el proceso de matriculación y seguimiento académico.
   
-- **[Proyecto 2 - E-commerce](https://github.com/LucianoAHG/Asistente-Virtual-Demo-LHG)**  
+- **[Proyecto 2 - Asistente Virtual Demo LHG](https://github.com/LucianoAHG/Asistente-Virtual-Demo-LHG)**  
   El asistente virtual que estoy desarrollando está enfocado en estudiantes y profesionales de Ingeniería Civil Informática, aprovechando IA, ML y procesamiento de lenguaje natural para optimizar la productividad y la eficiencia. Construido con tecnologías como React, Node.js, Python y Flask, el proyecto integra análisis predictivo, planificación detallada y vistas intuitivas para la gestión educativa.
 
 ### 🚀 Tecnologías en uso recientemente:
